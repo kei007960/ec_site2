@@ -53,8 +53,9 @@ header{
 
 /*header nav*/
 .ec-header-right {
-    margin-left:20%;
-    width: 60%;
+    margin-left: 50%;
+    margin-right: 0%;
+    width: 40%;
       background: green;
 }
 .ec-header-right ul {
@@ -82,9 +83,10 @@ header{
     filter: drop-shadow(10px 10px 10px black);
 }
 
-/*-------------header-left-hamburger---------*/
-.ec-header-left {
+/*-------------ec-header-hamburger---------*/
+.ec-header-hum {
     padding: 0px;
+    width: 3%;
     margin-left: 5px;
     float: rignt;
 }
