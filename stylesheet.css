@@ -280,6 +280,10 @@ header{
     right: -20px;
 }
 /*-------------slideshow------------*/
+#slide-wrapper {
+  position: absolute;
+  margin-top: 400px
+}
  .slideshow {
           position: relative;
           overflow: hidden;
